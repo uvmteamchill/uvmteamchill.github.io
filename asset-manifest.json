@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f572df3.css",
-    "main.js": "/static/js/main.c392a95a.js",
+    "main.css": "/static/css/main.57458313.css",
+    "main.js": "/static/js/main.2a333253.js",
     "static/media/team-chill.jpg": "/static/media/team-chill.d4af6d3cd8c0260947bb.jpg",
     "index.html": "/index.html",
-    "main.2f572df3.css.map": "/static/css/main.2f572df3.css.map",
-    "main.c392a95a.js.map": "/static/js/main.c392a95a.js.map"
+    "main.57458313.css.map": "/static/css/main.57458313.css.map",
+    "main.2a333253.js.map": "/static/js/main.2a333253.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f572df3.css",
-    "static/js/main.c392a95a.js"
+    "static/css/main.57458313.css",
+    "static/js/main.2a333253.js"
   ]
 }
