@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdd3e69e.css",
-    "main.js": "/static/js/main.de0ec4ae.js",
+    "main.css": "/static/css/main.dbcbe6f9.css",
+    "main.js": "/static/js/main.8061e7fc.js",
     "static/media/sky-bg.jpg": "/static/media/sky-bg.e67827c1ab0584f88385.jpg",
     "static/media/team_pic.jpg": "/static/media/team_pic.36399b204acca4e41ac3.jpg",
     "static/media/Full_Color.png": "/static/media/Full_Color.d7199f22f27be9487738.png",
@@ -9,11 +9,11 @@
     "static/media/NoText_Black.png": "/static/media/NoText_Black.4f9b9290d5450b6acdc3.png",
     "static/media/bike-profile.jpg": "/static/media/bike-profile.b3b4244cd7485e5b3fca.jpg",
     "index.html": "/index.html",
-    "main.bdd3e69e.css.map": "/static/css/main.bdd3e69e.css.map",
-    "main.de0ec4ae.js.map": "/static/js/main.de0ec4ae.js.map"
+    "main.dbcbe6f9.css.map": "/static/css/main.dbcbe6f9.css.map",
+    "main.8061e7fc.js.map": "/static/js/main.8061e7fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdd3e69e.css",
-    "static/js/main.de0ec4ae.js"
+    "static/css/main.dbcbe6f9.css",
+    "static/js/main.8061e7fc.js"
   ]
 }
